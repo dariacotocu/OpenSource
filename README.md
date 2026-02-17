@@ -1,3 +1,6 @@
-# OpenSource
-The code that I wrote to solve the issue is in util.mjs. It is under "issue 302". It starts from line 74 to 128.
-I added the test file that checks if the code works.
+# Open Source Contribution
+
+Fix for Strudel issue #302.
+
+Implementation: `util.mjs` (lines 74–128)  
+Includes tests to validate the solution.
